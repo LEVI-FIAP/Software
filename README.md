@@ -20,3 +20,8 @@ Neste repositório está presente o desenvolvimento da entrega da segunda Global
 Link do video - <a href="https://youtu.be/PkXg9ScyzIg">Clique aqui para ver</a>
 
 ---
+
+#### Docs
+Link de acesso para o Docs - <a href="https://docs.google.com/document/d/107aUaUUYXVDC8exd8HbyHpBBRgFuwKSvC3RFzZ56-DE/edit?usp=sharing">Clique aqui para ver</a>
+
+---
